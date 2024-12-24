@@ -1,0 +1,11 @@
+D:\.NET Practice\CommonLogic\CommonLogic\bin\Release\net8.0\CommonLogic.deps.json
+D:\.NET Practice\CommonLogic\CommonLogic\bin\Release\net8.0\CommonLogic.dll
+D:\.NET Practice\CommonLogic\CommonLogic\bin\Release\net8.0\CommonLogic.pdb
+D:\.NET Practice\CommonLogic\CommonLogic\obj\Release\net8.0\CommonLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Practice\CommonLogic\CommonLogic\obj\Release\net8.0\CommonLogic.AssemblyInfoInputs.cache
+D:\.NET Practice\CommonLogic\CommonLogic\obj\Release\net8.0\CommonLogic.AssemblyInfo.cs
+D:\.NET Practice\CommonLogic\CommonLogic\obj\Release\net8.0\CommonLogic.csproj.CoreCompileInputs.cache
+D:\.NET Practice\CommonLogic\CommonLogic\obj\Release\net8.0\CommonLogic.dll
+D:\.NET Practice\CommonLogic\CommonLogic\obj\Release\net8.0\refint\CommonLogic.dll
+D:\.NET Practice\CommonLogic\CommonLogic\obj\Release\net8.0\CommonLogic.pdb
+D:\.NET Practice\CommonLogic\CommonLogic\obj\Release\net8.0\ref\CommonLogic.dll
